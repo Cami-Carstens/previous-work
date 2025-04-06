@@ -113,3 +113,4 @@ completed.style.display = 'inline';
 
 document.getElementById('resetButton').addEventListener('click', resetProgress);
 updateProgressBar(); 
+
